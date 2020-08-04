@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flag-react-project/static/css/main.c2c71432.chunk.css",
+    "main.js": "/flag-react-project/static/js/main.e778cbce.chunk.js",
+    "main.js.map": "/flag-react-project/static/js/main.e778cbce.chunk.js.map",
+    "runtime-main.js": "/flag-react-project/static/js/runtime-main.a3ba365e.js",
+    "runtime-main.js.map": "/flag-react-project/static/js/runtime-main.a3ba365e.js.map",
+    "static/js/2.70787a00.chunk.js": "/flag-react-project/static/js/2.70787a00.chunk.js",
+    "static/js/2.70787a00.chunk.js.map": "/flag-react-project/static/js/2.70787a00.chunk.js.map",
+    "index.html": "/flag-react-project/index.html",
+    "precache-manifest.56645faba7a983930ff4e1bf422b85a5.js": "/flag-react-project/precache-manifest.56645faba7a983930ff4e1bf422b85a5.js",
+    "service-worker.js": "/flag-react-project/service-worker.js",
+    "static/css/main.c2c71432.chunk.css.map": "/flag-react-project/static/css/main.c2c71432.chunk.css.map",
+    "static/js/2.70787a00.chunk.js.LICENSE.txt": "/flag-react-project/static/js/2.70787a00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3ba365e.js",
+    "static/js/2.70787a00.chunk.js",
+    "static/css/main.c2c71432.chunk.css",
+    "static/js/main.e778cbce.chunk.js"
+  ]
+}
